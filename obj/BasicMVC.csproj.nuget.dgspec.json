@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/raymondshelton/Desktop/ASP.NET/BasicMVC/BasicMVC.csproj": {}
+    "C:\\Mac\\Home\\Desktop\\ASP.NET\\BasicMVC\\BasicMVC.csproj": {}
   },
   "projects": {
-    "/Users/raymondshelton/Desktop/ASP.NET/BasicMVC/BasicMVC.csproj": {
+    "C:\\Mac\\Home\\Desktop\\ASP.NET\\BasicMVC\\BasicMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/raymondshelton/Desktop/ASP.NET/BasicMVC/BasicMVC.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\ASP.NET\\BasicMVC\\BasicMVC.csproj",
         "projectName": "BasicMVC",
-        "projectPath": "/Users/raymondshelton/Desktop/ASP.NET/BasicMVC/BasicMVC.csproj",
-        "packagesPath": "/Users/raymondshelton/.nuget/packages/",
-        "outputPath": "/Users/raymondshelton/Desktop/ASP.NET/BasicMVC/obj/",
+        "projectPath": "C:\\Mac\\Home\\Desktop\\ASP.NET\\BasicMVC\\BasicMVC.csproj",
+        "packagesPath": "C:\\Users\\raymondshelton\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Desktop\\ASP.NET\\BasicMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/raymondshelton/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\raymondshelton\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
